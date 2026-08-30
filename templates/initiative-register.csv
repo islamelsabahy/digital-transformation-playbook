@@ -1,0 +1,3 @@
+initiative_id,name,strategic_theme,business_owner,estimated_cost,estimated_benefit,effort,risk,readiness,priority_score,status
+DEMO-DT-001,Demo Core Process Automation,Operational Efficiency,Demo Operations Owner,1500000,3200000,Medium,Medium,High,82,Prioritized
+DEMO-DT-002,Demo Executive Analytics Platform,Data-Driven Management,Demo Finance Owner,2200000,4000000,High,Medium,Medium,78,Business Case

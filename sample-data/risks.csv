@@ -1,0 +1,3 @@
+risk_id,initiative_id,description,probability,impact,owner,status
+DEMO-RISK-001,DEMO-DT-001,Low user adoption,Medium,High,Demo Change Owner,Open
+DEMO-RISK-002,DEMO-DT-002,Source data quality issues,High,High,Demo Data Owner,Open

@@ -1,0 +1,14 @@
+.env
+.env.*
+*.key
+*.pem
+secrets/
+production-data/
+private/
+exports/
+real-roadmaps/
+real-business-cases/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

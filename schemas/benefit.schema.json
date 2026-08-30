@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TransformationBenefit",
+  "type": "object",
+  "required": ["benefit_id", "initiative_id", "benefit_type", "owner"],
+  "properties": {
+    "benefit_id": {"type": "string"},
+    "initiative_id": {"type": "string"},
+    "benefit_type": {"type": "string"},
+    "metric": {"type": ["string", "null"]},
+    "baseline": {"type": ["number", "string", "null"]},
+    "target": {"type": ["number", "string", "null"]},
+    "actual": {"type": ["number", "string", "null"]},
+    "owner": {"type": "string"},
+    "validation_status": {"type": ["string", "null"]}
+  }
+}

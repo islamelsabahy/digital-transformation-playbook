@@ -1,0 +1,3 @@
+wave,initiative_id,start_period,end_period,dependency,status
+Foundation,DEMO-DT-001,2026-Q4,2027-Q1,,Planned
+Data & Analytics,DEMO-DT-002,2027-Q1,2027-Q2,DEMO-DT-001,Planned

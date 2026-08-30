@@ -1,0 +1,4 @@
+dimension,current_score,target_score,weight,key_gap,owner
+Strategy & Leadership,3,4,10,Demo governance gap,Demo Executive Owner
+Processes & Automation,2,4,15,High manual effort,Demo Operations Owner
+Data & Analytics,2,4,15,Fragmented reporting,Demo Data Owner
