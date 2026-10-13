@@ -35,4 +35,4 @@ Business Strategy → Current State → Maturity Assessment → Target Operating
 10. Public examples use fictional data only.
 
 ## Author
-Eng. Islam El Sherbiny
+Eng. Islam El-Sherbiny
